@@ -20,5 +20,7 @@ Below I have provided a rundown of the installation process as well as youtube v
 2. install python and pip [![Watch the video](https://img.youtube.com/vi/dYfKJMPNMDw&ab/default.jpg)](https://youtu.be/dYfKJMPNMDw&ab)
 4. install matplotlib --> "pip install matplotlib" in terminal
 5. install sympy --> "pip install sympy" in terminal
+6. install scypy same way
+7. install Flask
 
 "# Project" 
